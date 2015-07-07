@@ -11,7 +11,7 @@ After coming back to this after a few months, I noticed the code was really hard
 1. [Install elm][elm_install]
 2. Compile using
 
-    elm make Main.elm --output Main.html
+        elm make Main.elm --output Main.html
     
 3. Open `Main.html` in your browser
 
